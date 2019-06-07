@@ -1,0 +1,39 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#info {
+	text-align: center;
+	width: 100%;
+	position: relative;
+}
+
+#content1 {
+	 margin:0px auto;
+	 width: 50%;
+}
+#content1 img {
+width: 50%;
+}
+#content2 {
+margin:0px auto;
+	 width: 50%;
+}
+#content2 img {
+width: 50%;
+
+}
+button {
+	display:inline-block;
+    color:white;
+    border:1px solid #CCC;
+    background:black;
+    cursor:pointer;
+    vertical-align:middle;
+    width: 110px;
+    height: 35px;
+    padding: 5px;
+    text-align: center
+}

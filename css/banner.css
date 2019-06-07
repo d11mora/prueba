@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+#banner {
+	margin-top: 90px;
+	text-align: center;
+	width: 100%;
+	position: relative;
+
+}
+
+#bannerimg {
+	margin:0px auto;
+	 width: 80%;
+	 height: 50%;
+	
+}
+
+
+
+
